@@ -33,13 +33,6 @@ class App extends React.Component {
     this.setState({ selectedVideo: video })
   };
   
-
-
-
-
-
-
-  
   render() {
     return (
       <div className="ui container">
